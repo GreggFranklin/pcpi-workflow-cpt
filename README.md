@@ -193,11 +193,3 @@ GPLv2 or later
 * PCPI PDF Templates
 
 ---
-
-If you want, I can take this one step further and:
-
-* Add **badges (version, PHP, WP compatibility)**
-* Generate **screenshots section**
-* Or align it **exactly with your other PCPI plugin READMEs for consistency**
-
-Just say the word.
